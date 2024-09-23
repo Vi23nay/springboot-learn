@@ -1,0 +1,161 @@
+!SESSION 2024-09-23 13:03:35.761 -----------------------------------------------
+eclipse.buildId=4.22.0.202403071427
+java.version=17.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-09-23 13:03:39.261
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-23 13:03:39.700
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-23 13:04:23.885
+!MESSAGE Logback config file: D:\sts-workspace\springboot-mongodb\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.0.20240217-1525.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-09-23 13:04:24.545
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-09-23 13:04:24.545
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-09-23 13:04:24.949
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-09-23 13:04:24.949
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-09-23 13:04:24.998
+!MESSAGE Warnings while parsing the images from the 'org.eclipse.ui.commandImages' extension point.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-09-23 13:04:24.998
+!MESSAGE Cannot bind to an undefined command: plug-in='com.genuitec.eclipse.theming.ui', id='com.genuitec.myeclipse.help.darktheme.commandid'
+
+!ENTRY com.genuitec.eclipse.theming.ui 1 0 2024-09-23 13:04:25.925
+!MESSAGE A DevStyle Theme is being activated on this workspace; preparing colors and configuration
+
+!ENTRY com.genuitec.eclipse.theming.ui 1 0 2024-09-23 13:04:25.957
+!MESSAGE DevStyle has archived current color configurations to alternate preferences - will be restored when switching out of the DevStyle Theme
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-09-23 13:04:31.430
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\vi23n'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2024-09-23 13:04:36.762
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.core.common.rss,2024.3.0.202409191846.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2024-09-23 13:04:36.762
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.inlinesearch,2024.3.0.202409191846.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2024-09-23 13:04:36.762
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.json.simple,2024.3.0.202409191846.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2024-09-23 13:04:36.762
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.core.common.platform,2024.3.0.202409191846.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2024-09-23 13:04:36.938
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.patches,2024.3.0.202409191846.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2024-09-23 13:04:36.939
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.meexplorer,2024.3.0.202409191846.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2024-09-23 13:04:36.939
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.meexplorer.jdt,2024.3.0.202409191846.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2024-09-23 13:04:37.186
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.startup,2024.3.0.202409191846.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2024-09-23 13:04:37.275
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.theming.base,2024.3.0.202409191846.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2024-09-23 13:04:37.275
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.startup.workspace,2024.3.0.202409191846.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2024-09-23 13:04:37.409
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.theming.base.win,2024.3.0.202409191846.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2024-09-23 13:04:37.456
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.theming.core,2024.3.0.202409191846.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2024-09-23 13:04:37.515
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.theming.css,2024.3.0.202409191846.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2024-09-23 13:04:37.686
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.theming.elevation.win32,2024.3.0.202409191846.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2024-09-23 13:04:38.257
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.theming.epl,2024.3.0.202409191846.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2024-09-23 13:04:38.258
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.theming.icon.designer,2024.3.0.202409191846.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2024-09-23 13:04:38.314
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.theming.scrollbar,2024.3.0.202409191846.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2024-09-23 13:04:38.637
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.theming.scrollbar.win,2024.3.0.202409191846.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2024-09-23 13:04:38.790
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.theming.ui,2024.3.0.202409191846.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2024-09-23 13:04:38.838
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.ui.common.platform,2024.3.0.202409191846.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2024-09-23 13:04:38.887
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.webclipse.evergreen,2024.3.0.202409191846.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2024-09-23 13:04:39.050
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.webicons,2024.3.0.202409191846.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2024-09-23 13:04:39.101
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipsecolortheme.api,2024.3.0.202409191846.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2024-09-23 13:04:39.176
+!MESSAGE No digest algorithm is available to verify download of org.eclipse.update.feature,com.genuitec.eclipse.theming.core.feature,2024.3.0.202409191846.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2024-09-23 13:04:39.241
+!MESSAGE No digest algorithm is available to verify download of org.eclipse.update.feature,com.genuitec.eclipse.theming.designer.feature,2024.3.0.202409191846.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2024-09-23 13:04:39.319
+!MESSAGE No digest algorithm is available to verify download of org.eclipse.update.feature,com.genuitec.eclipse.theming.feature,2024.3.0.202409191846.
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-09-23 13:04:54.746
+!MESSAGE Classpath changed for project: springboot-mongodb
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-09-23 13:04:54.747
+!MESSAGE Boot project ADDED: springboot-mongodb
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-09-23 13:04:54.748
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-09-23 13:04:54.766
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-09-23 13:04:54.787
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+C:\Users\vi23n\Downloads\sts-4.22.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.10.v20240120-1143\jre\bin\javaw.exe
+-cp
+C:\Users\vi23n\Downloads\sts-4.22.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.53.0.202403071323\servers\spring-boot-language-server\BOOT-INF\classes;C:\Users\vi23n\Downloads\sts-4.22.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.53.0.202403071323\servers\spring-boot-language-server\BOOT-INF\lib\*
+-Dsts.lsp.client=eclipse
+-Dlsp.completions.indentation.enable=true
+-Xmx1024m
+-XX:+HeapDumpOnOutOfMemoryError
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:C:\Users\vi23n\Downloads\sts-4.22.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.53.0.202403071323\servers\spring-boot-language-server\BOOT-INF\classes\application.properties
+-XX:ErrorFile=D:/sts-workspace/springboot-mongodb/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1727076894786
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-09-23 13:04:54.788
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-09-23 13:04:54.795
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 780
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-09-23 13:05:00.793
+!MESSAGE Classpath changed for project: springboot-mongodb
