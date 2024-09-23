@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="securitysection2" />
         <module name="securitysection1" />
+        <module name="springboot-mongodb" />
       </profile>
     </annotationProcessing>
   </component>
@@ -15,6 +16,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="securitysection1" options="-parameters" />
       <module name="securitysection2" options="-parameters" />
+      <module name="springboot-mongodb" options="-parameters" />
     </option>
   </component>
 </project>

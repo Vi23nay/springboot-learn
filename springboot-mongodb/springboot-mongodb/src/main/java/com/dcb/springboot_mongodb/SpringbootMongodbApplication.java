@@ -9,6 +9,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 public class SpringbootMongodbApplication {
 
 	public static void main(String[] args) {
+		System.out.println("added");
 		SpringApplication.run(SpringbootMongodbApplication.class, args);
 	}
 

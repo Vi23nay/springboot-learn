@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/securitysection1/securitysection1/pom.xml" />
         <option value="$PROJECT_DIR$/securitysection2/securitysection2/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-mongodb/springboot-mongodb/pom.xml" />
       </list>
     </option>
   </component>
